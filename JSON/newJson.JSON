@@ -1,0 +1,74 @@
+{
+  "Australia": [
+    {
+      "id":"Australian Capital Territory"
+    },
+    {
+      "id":"Northern Territory"
+    },
+    {
+      "id":"New South Wales"
+    },
+    {
+      "id":"Queensland"
+    },
+    {
+      "id":"South Australia"
+    }, {
+      "id":"Tasmania"
+    }, {
+      "id":"Victoria"
+    },
+    {
+      "id":"Western Australia"
+    }
+  ],
+  "USA":[
+    {
+      "id":"Alabama"
+    },
+    {
+      "id":"Alaska"
+    },
+    {
+      "id":"Arizona"
+    },
+    {
+      "id":"Arkansas"
+    },
+    {
+      "id":"California"
+    }, {
+      "id":"Colorado"
+    }, {
+      "id":"Connecticut"
+    },
+    {
+      "id":"Florida"
+    },
+    {
+      "id":"Georgia"
+    },
+    {
+      "id":"Hawaii"
+    },
+    {
+      "id":"Idaho"
+    },
+    {
+      "id":"Illinois"
+    },
+    {
+      "id":"Indiana"
+    },
+    {
+      "id":"Iowa"
+    },
+    {
+      "id":"Kansas"
+    },
+    {
+      "id":"Kentucky"
+    }
+  ]
+}
